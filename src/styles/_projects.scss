@@ -68,10 +68,9 @@
 }
 
 .project-link {
-  display: block;
-  width: 100px;
+  display: inline-block;
   margin: 10px 0px;
-  padding: 5px;
+  padding: 10px;
   color: $main;
   background-color: transparent;
   border: 1px solid $main;
