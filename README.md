@@ -1,2 +1,2 @@
-# doodhwala.github.io
+# mohit-surana.github.io
 Personal website
